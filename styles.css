@@ -1,7 +1,7 @@
 *,*::after, *::before {
     box-sizing: border-box;
     font-family: Gotham Rounded, sans-serif;
-    }
+}
 
 body {
     background: linear-gradient(to right, rgb(118, 191, 228),hsl(98, 58%, 78%));
